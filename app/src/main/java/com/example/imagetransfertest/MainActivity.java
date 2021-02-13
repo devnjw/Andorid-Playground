@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     File selectedFile;
     Bitmap bitmap;
 
-    private static final String postUrl = "http://54.180.8.235:5000/image";
+    private static final String postUrl = "";
 
     private final int GET_GALLERY_IMAGE = 200;
     private ImageView imageview;
